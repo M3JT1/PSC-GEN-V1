@@ -1,6 +1,6 @@
 ﻿Soo, i have been scamed for this code.. If scamer got it why you guys dont have it??
 This is fake psc gen, i made code in 3 days, 72hours to get scamed.
-
+( U have everything in releases)
 
 # How to Use
 1. Change psc_gen.exe with your own grabber or smth, this code will first generate code when you click "Generuj", this code is for PLN becuse i were doing this for someone from poland.
